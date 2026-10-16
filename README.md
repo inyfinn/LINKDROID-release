@@ -38,7 +38,11 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 **Komputer na telefonie**
 - **Pliki komputera:** wszystkie dyski (C:, D: i inne), z pobieraniem i zapisem.
 - **Ekran komputera** na telefonie i proste sterowanie komputerem.
-- **Wybudzanie komputera z telefonu** (Wake-on-LAN).
+- **Wybudzanie komputera z telefonu** (Wake-on-LAN): przycisk „Wybudź komputer”. Każdy inny włączony komputer z LinkDroid w tej samej sieci przekaże sygnał.
+
+**Powiadomienia zawsze pod kontrolą**
+- Odrzucasz w telefonie albo na komputerze: znika w obu miejscach i trafia do historii.
+- Udostępnianie ekranu zawsze widać: w powiadomieniu i na ekranie Start jest przycisk „Zakończ udostępnianie ekranu”. Gdy komputer przestaje oglądać, udostępnianie kończy się samo.
 
 **Razem**
 - **Wspólny schowek:** tekst i obrazy kopiowane na jednym urządzeniu wklejasz na drugim.
