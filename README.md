@@ -49,6 +49,9 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 - **Wysyłanie plików** w obie strony, z paskiem przeciągania na górze ekranu Windows.
 - **Kilka komputerów naraz:** schowek idzie do wszystkich, przy wysyłce telefon pyta „Na który komputer?”.
 
+**Most w sieci domowej**
+- Mały program LinkDroid na stale włączonym urządzeniu w domu (np. Synology NAS w Dockerze) daje stały punkt połączenia i wybudza komputer, gdy jesteś poza domem. Paruje się przez komputer, bez skanowania kodów.
+
 **Wygląd po Twojemu**
 - Dwa układy ekranu głównego, motyw jasny i ciemny, cztery schematy kolorów.
 - Tryb „Dostosuj”: sam wybierasz kafelki (SMS, powiadomienia jednej aplikacji, zdjęcia, filmy, pliki, połączenia, schowek). Ekran wypełnia się treścią na każdym monitorze, od laptopa po 4K.
@@ -73,6 +76,13 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 | Wybudzenie komputera z telefonu | Tak | Nie |
 | Telefon jako dysk w Eksploratorze | Tak, z literą dysku i miniaturami | Zależnie od wersji Windows |
 | Wygląd | Dwa układy, schematy, tryb Dostosuj | Stały |
+| Wybór, co widać na ekranie głównym | Tryb Dostosuj: kafelki SMS, powiadomienia jednej aplikacji, zdjęcia, filmy, pliki, połączenia, schowek | Stały układ |
+| Most w sieci domowej (np. NAS) | Tak: stały punkt połączenia i wybudzanie komputera spoza domu | Nie |
+| Licznik danych komórkowych | Tak, „LinkDroid dziś: X MB” | Nie |
+| Kilka komputerów naraz z jednym telefonem | Tak, schowek do wszystkich, wybór komputera przy wysyłce | Tak |
+| Zrzut ekranu z telefonu na komputerze | Okno z podglądem: Otwórz, Zapisz, Kopiuj, Edytuj, Usuń z cofnięciem | Przez zdjęcia |
+
+Porównanie dotyczy wersji „Łącza z telefonem” dostępnych w październiku 2026 i może się zmienić wraz z jego aktualizacjami.
 
 ## Prywatność
 
