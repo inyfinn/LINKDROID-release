@@ -38,6 +38,7 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 **Komputer na telefonie**
 - **Pliki komputera:** wszystkie dyski (C:, D: i inne), z pobieraniem i zapisem.
 - **Ekran komputera** na telefonie i proste sterowanie komputerem.
+- **Karta komputera na telefonie:** na ekranie Start przesuwasz z karty telefonu na kartę komputera: rodzaj komputera, zalogowany użytkownik, bateria i ładowanie, sieć, godzina na komputerze.
 - **Wybudzanie komputera z telefonu** (Wake-on-LAN): przycisk „Wybudź komputer”. Każdy inny włączony komputer z LinkDroid w tej samej sieci przekaże sygnał.
 
 **Powiadomienia zawsze pod kontrolą**
@@ -54,6 +55,7 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 
 **Wygląd po Twojemu**
 - Dwa układy ekranu głównego, motyw jasny i ciemny, cztery schematy kolorów.
+- Na telefonie: motyw jasny lub ciemny jednym dotknięciem na górze ekranu Start, powiadomienia aktywne i historia przesuwane palcem.
 - Tryb „Dostosuj”: sam wybierasz kafelki (SMS, powiadomienia jednej aplikacji, zdjęcia, filmy, pliki, połączenia, schowek). Ekran wypełnia się treścią na każdym monitorze, od laptopa po 4K.
 
 <p align="center">
@@ -78,6 +80,7 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 | Wygląd | Dwa układy, schematy, tryb Dostosuj | Stały |
 | Wybór, co widać na ekranie głównym | Tryb Dostosuj: kafelki SMS, powiadomienia jednej aplikacji, zdjęcia, filmy, pliki, połączenia, schowek | Stały układ |
 | Most w sieci domowej (np. NAS) | Tak: stały punkt połączenia i wybudzanie komputera spoza domu | Nie |
+| Stan komputera na telefonie (bateria, sieć, użytkownik) | Tak, karta Komputer na ekranie Start | Nie |
 | Licznik danych komórkowych | Tak, „LinkDroid dziś: X MB” | Nie |
 | Kilka komputerów naraz z jednym telefonem | Tak, schowek do wszystkich, wybór komputera przy wysyłce | Tak |
 | Zrzut ekranu z telefonu na komputerze | Okno z podglądem: Otwórz, Zapisz, Kopiuj, Edytuj, Usuń z cofnięciem | Przez zdjęcia |
