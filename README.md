@@ -24,12 +24,14 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 - Połączenie jest szyfrowane od końca do końca kluczami urządzeń. Nikt po drodze nie widzi treści.
 - Licznik danych komórkowych pokazuje, ile LinkDroid zużył dziś przez LTE.
 - Gdy połączenia nie ma, zaległe rzeczy (np. zrzut ekranu) czekają i dochodzą po ponownym połączeniu.
+- Połączenie naprawia się samo: po błędzie, zmianie sieci albo odblokowaniu telefonu aplikacja łączy się ponownie, a przycisk „Połącz ponownie” jest zawsze pod ręką.
 
 **Telefon na komputerze**
 - **Wiadomości SMS:** czytanie i pisanie z klawiatury komputera.
 - **Powiadomienia z telefonu:** w Windows, z przyciskiem „Kopiuj kod” przy kodach SMS i wyciszaniem wybranych aplikacji.
 - **Połączenia:** wybieranie numeru z komputera i historia połączeń.
 - **Zdjęcia i filmy:** przeglądanie, pobieranie, przeciąganie prosto do folderu.
+- **Wiadomości z dużym „Kopiuj kod”:** kod jednorazowy wykrywany zawsze (także w czatach RCS), dowolny fragment wiadomości zaznaczasz i kopiujesz jak zwykły tekst, na komputerze i w telefonie.
 - **Telefon jako dysk w Eksploratorze Windows:** własna litera dysku, miniatury, pojemność telefonu.
 - **Ekran telefonu na komputerze ze sterowaniem myszą i klawiaturą,** także w pływającym oknie z ramką telefonu, które przesuwasz po pulpicie.
 - **Zrzut ekranu z telefonu** od razu na komputerze: otwórz, zapisz, kopiuj, edytuj.
@@ -38,7 +40,9 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 **Komputer na telefonie**
 - **Pliki komputera:** wszystkie dyski (C:, D: i inne), z pobieraniem i zapisem.
 - **Ekran komputera** na telefonie i proste sterowanie komputerem.
-- **Karta komputera na telefonie:** na ekranie Start przesuwasz z karty telefonu na kartę komputera: rodzaj komputera, zalogowany użytkownik, bateria i ładowanie, sieć, godzina na komputerze.
+- **Zdjęcia w telefonie:** podgląd w aplikacji z przewijaniem, ulubione, edycja, udostępnianie; siatka zmieniana dwoma palcami.
+- **Zgłoś problem:** formularz w Ustawieniach na komputerze i telefonie.
+- **Karta komputera na telefonie:** na ekranie Start przesuwasz z karty telefonu na kartę komputera: rodzaj komputera, zalogowany użytkownik, bateria i ładowanie, sieć, godzina na komputerze, a pod nią przyciski Zablokuj, Uśpij, Wyłącz ekran, Steruj, Wyślij pliki, Wyłącz komputer.
 - **Wybudzanie komputera z telefonu** (Wake-on-LAN): przycisk „Wybudź komputer”. Każdy inny włączony komputer z LinkDroid w tej samej sieci przekaże sygnał.
 
 **Powiadomienia zawsze pod kontrolą**
