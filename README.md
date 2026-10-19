@@ -25,6 +25,9 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 - Licznik danych komórkowych pokazuje, ile LinkDroid zużył dziś przez LTE.
 - Gdy połączenia nie ma, zaległe rzeczy (np. zrzut ekranu) czekają i dochodzą po ponownym połączeniu.
 - Połączenie naprawia się samo: po błędzie, zmianie sieci albo odblokowaniu telefonu aplikacja łączy się ponownie, a przycisk „Połącz ponownie” jest zawsze pod ręką.
+- Gdy coś nie działa, „Połącz ponownie” pokazuje sprawdzenie krok po kroku (sieć, internet, telefon, komputer) i konkretną radę, co zrobić.
+- Działa także z komputerem w innej sieci, np. w pracy, przez internet, również w sieciach firmowych.
+- „Odnów całkowicie połączenie” i kopia ustawień do pliku: naprawa i zapasowa kopia jednym przyciskiem, bez wiedzy technicznej.
 
 **Telefon na komputerze**
 - **Wiadomości SMS:** czytanie i pisanie z klawiatury komputera.
@@ -50,7 +53,8 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 - Udostępnianie ekranu zawsze widać: w powiadomieniu i na ekranie Start jest przycisk „Zakończ udostępnianie ekranu”. Gdy komputer przestaje oglądać, udostępnianie kończy się samo.
 
 **Razem**
-- **Wspólny schowek:** tekst i obrazy kopiowane na jednym urządzeniu wklejasz na drugim.
+- **Wspólny schowek:** tekst i obrazy kopiowane na jednym urządzeniu wklejasz na drugim. Kopiowanie obiektów w Illustratorze, Photoshopie czy PowerPoincie działa normalnie.
+- **Spam SMS i numery zablokowane** nie dają powiadomień i są ukryte, z przyciskiem „To nie spam”.
 - **Wysyłanie plików** w obie strony, z paskiem przeciągania na górze ekranu Windows.
 - **Kilka komputerów naraz:** schowek idzie do wszystkich, przy wysyłce telefon pyta „Na który komputer?”.
 
