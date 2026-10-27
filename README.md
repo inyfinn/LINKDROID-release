@@ -14,6 +14,8 @@ Najnowsza wersja jest w zakładce **[Releases](../../releases/latest)**:
 - **Windows 10 i 11:** `LinkDroid_<wersja>_x64-setup.exe`. Jeden instalator, wszystko w środku.
 - **Android 10 lub nowszy:** `LinkDroid-<wersja>.apk` (albo zeskanuj kod QR, który pokaże aplikacja na komputerze).
 
+Windows 11 z włączoną ochroną „Smart App Control” może zablokować instalator, bo nie jest podpisany certyfikatem producenta. Wersja z Microsoft Store (w przygotowaniu) jest podpisana przez Microsoft. Program zabezpieczający (np. Bitdefender) może blokować LinkDroid po nazwie pliku: aplikacja sama to wykryje i pokaże, jak go zezwolić.
+
 Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplikacje same się aktualizują.
 
 ## Co potrafi
@@ -98,6 +100,8 @@ Porównanie dotyczy wersji „Łącza z telefonem” dostępnych w październiku
 ## Prywatność
 
 LinkDroid nie ma kont, serwera ani reklam. Urządzenia rozpoznają się po własnych kluczach. Gdy bezpośrednie połączenie przez internet nie jest możliwe, ruch idzie przez publiczny przekaźnik, ale jest zaszyfrowany i przekaźnik nie widzi treści.
+
+Pełne zasady: [Polityka prywatności](PRIVACY.md) i [Regulamin](TERMS.md).
 
 ---
 
