@@ -94,6 +94,18 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 
 Porównanie dotyczy wersji „Łącza z telefonem” dostępnych w październiku 2026 i może się zmienić wraz z jego aktualizacjami.
 
+## Gdy coś nie działa
+
+**Kopiowanie i wklejanie między telefonem a komputerem**
+1. Na komputerze zamknij LinkDroid i sprawdź, czy zwykłe Ctrl+C / Ctrl+V działa w Notatniku. Jeśli nie działa, to nie LinkDroid.
+   Częsta przyczyna: Linux w Windows (WSL) z oknami WSLg, który przejmuje schowek. Wyłącz WSLg (plik `.wslconfig`, `guiApplications=false`) i zamknij WSL (`wsl --shutdown`).
+2. Tekst skopiowany na telefonie dociera na komputer przez usługę dostępności LinkDroid. Jeśli system ją wyłączył (zdarza się po aktualizacji), telefon pokaże powiadomienie: włącz ją w Ułatwienia dostępu, Zainstalowane aplikacje, LinkDroid.
+3. Telefon co kilkadziesiąt sekund zmieniający sieć Wi-Fi (np. łączący się z adapterem Android Auto) co chwilę gubi połączenie z komputerem. Wyłącz Bluetooth z takim urządzeniem albo zapomnij tę sieć.
+4. Zrzut z Wycinania się nie wkleja: zakończ zawieszony proces SnippingTool, nowy wstanie przy następnym Win+Shift+S.
+5. Program zabezpieczający (np. Bitdefender) może blokować LinkDroid po ścieżce pliku: aplikacja pokaże, jak to zezwolić.
+
+Pełna diagnoza krok po kroku (test A/B, dzienniki, skrypt sprawdzający) jest w dokumentacji projektu w repozytorium prywatnym (`docs/features/clipboard.md`, `tools/diag-schowek.ps1`).
+
 ## Prywatność
 
 LinkDroid nie ma kont, serwera ani reklam. Urządzenia rozpoznają się po własnych kluczach. Gdy bezpośrednie połączenie przez internet nie jest możliwe, ruch idzie przez publiczny przekaźnik, ale jest zaszyfrowany i przekaźnik nie widzi treści.
