@@ -44,7 +44,7 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 
 **Komputer na telefonie**
 - **Pliki komputera:** wszystkie dyski (C:, D: i inne), z pobieraniem i zapisem.
-- **Ekran komputera** na telefonie i proste sterowanie komputerem.
+- **Ekran komputera** na telefonie i proste sterowanie komputerem. Po przybliżeniu palcami obraz jest ostry: telefon mówi komputerowi, jaki wycinek ekranu widać, a komputer wysyła go w pełnej rozdzielczości (na monitorze 4K do 2x tak ostro jak na komputerze), zamiast powiększać zmniejszony obraz.
 - **Zdjęcia w telefonie:** podgląd w aplikacji z przewijaniem, ulubione, edycja, udostępnianie; siatka zmieniana dwoma palcami.
 - **Zgłoś problem:** formularz w Ustawieniach na komputerze i telefonie.
 - **Karta komputera na telefonie:** na ekranie Start przesuwasz z karty telefonu na kartę komputera: rodzaj komputera, zalogowany użytkownik, bateria i ładowanie, sieć, godzina na komputerze, a pod nią przyciski Zablokuj, Uśpij, Wyłącz ekran, Steruj, Wyślij pliki, Wyłącz komputer.
@@ -64,17 +64,14 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 - Mały program LinkDroid na stale włączonym urządzeniu w domu (np. Synology NAS w Dockerze) daje stały punkt połączenia i wybudza komputer, gdy jesteś poza domem. Paruje się przez komputer, bez skanowania kodów.
 
 **Wygląd po Twojemu**
-- Dwa układy ekranu głównego, motyw jasny i ciemny, cztery schematy kolorów.
+- **Czysty, spójny wygląd na komputerze i telefonie:** ekran Start z kartą telefonu i kafelkami „Nowe z telefonu”, pasek boczny z ikonami o równej wielkości, motyw jasny i ciemny, cztery schematy kolorów.
+- **Ustawienia jak na telefonie:** lista kategorii (Telefon i połączenie, Funkcje i dane, Aplikacja), każda z krótkim opisem. Wchodzisz w jedną i wracasz strzałką, bez przewijania długiej listy.
 - Na telefonie: motyw jasny lub ciemny jednym dotknięciem na górze ekranu Start, powiadomienia aktywne i historia przesuwane palcem.
 - Tryb „Dostosuj”: sam wybierasz kafelki (SMS, powiadomienia jednej aplikacji, zdjęcia, filmy, pliki, połączenia, schowek). Ekran wypełnia się treścią na każdym monitorze, od laptopa po 4K.
 
 <p align="center">
-  <img src="docs/img/uklad2-jasny.jpg" alt="LinkDroid, układ 2, motyw jasny" width="49%">
-  <img src="docs/img/uklad2-ciemny.jpg" alt="LinkDroid, układ 2, motyw ciemny" width="49%">
-</p>
-<p align="center">
-  <img src="docs/img/ustawienia-jasny.jpg" alt="LinkDroid, ustawienia z panelem telefonu, jasny" width="49%">
-  <img src="docs/img/ustawienia-ciemny.jpg" alt="LinkDroid, ustawienia z panelem telefonu, ciemny" width="49%">
+  <img src="docs/img/ustawienia-jasny.jpg" alt="LinkDroid, Ustawienia jako lista kategorii, motyw jasny" width="49%">
+  <img src="docs/img/ustawienia-ciemny.jpg" alt="LinkDroid, Ustawienia jako lista kategorii, motyw ciemny" width="49%">
 </p>
 
 ## Czym różni się od „Łącza z telefonem”
@@ -87,7 +84,7 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 | Pliki komputera na telefonie | Tak, wszystkie dyski, z zapisem | Nie |
 | Wybudzenie komputera z telefonu | Tak | Nie |
 | Telefon jako dysk w Eksploratorze | Tak, z literą dysku i miniaturami | Zależnie od wersji Windows |
-| Wygląd | Dwa układy, schematy, tryb Dostosuj | Stały |
+| Wygląd | Jasny i ciemny motyw, cztery schematy kolorów, Ustawienia jako czytelna lista kategorii | Stały |
 | Wybór, co widać na ekranie głównym | Tryb Dostosuj: kafelki SMS, powiadomienia jednej aplikacji, zdjęcia, filmy, pliki, połączenia, schowek | Stały układ |
 | Most w sieci domowej (np. NAS) | Tak: stały punkt połączenia i wybudzanie komputera spoza domu | Nie |
 | Stan komputera na telefonie (bateria, sieć, użytkownik) | Tak, karta Komputer na ekranie Start | Nie |
