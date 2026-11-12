@@ -32,7 +32,7 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 - „Odnów całkowicie połączenie” i kopia ustawień do pliku: naprawa i zapasowa kopia jednym przyciskiem, bez wiedzy technicznej.
 
 **Telefon na komputerze**
-- **Dyktowanie przez telefon (Win+H):** naciskasz Win+H na komputerze i mówisz do telefonu. Tekst rozpoznaje klawiatura Gboard (pisanie głosowe Google, z polską interpunkcją), a LinkDroid wpisuje go tam, gdzie masz kursor. Działa bez odblokowywania telefonu, drugie Win+H albo X na plakietce kończy. LinkDroid nie nagrywa dźwięku: mikrofonu używa Gboard. Włącz w Ustawieniach, Funkcje.
+- **Dyktowanie przez telefon (Win+H):** naciskasz Win+H na komputerze i mówisz do telefonu. Tekst rozpoznaje klawiatura Gboard (pisanie głosowe Google, z polską interpunkcją), a LinkDroid wpisuje go tam, gdzie masz kursor. Działa bez odblokowywania telefonu, na przyciemnionym ekranie; gdy przestajesz mówić, kończy się samo. Stan pokazuje cienki pasek, który możesz przesunąć myszą. LinkDroid nie nagrywa dźwięku: mikrofonu używa Gboard. Włącz w Ustawieniach, Funkcje.
 - **Wiadomości SMS:** czytanie i pisanie z klawiatury komputera.
 - **Powiadomienia z telefonu:** w Windows, z przyciskiem „Kopiuj kod” przy kodach SMS i wyciszaniem wybranych aplikacji.
 - **Połączenia:** wybieranie numeru z komputera i historia połączeń.
