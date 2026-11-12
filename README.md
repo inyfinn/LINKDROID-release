@@ -36,7 +36,7 @@ Po instalacji komputer pokazuje kod QR, telefon go skanuje i gotowe. Obie aplika
 - **Wiadomości SMS:** czytanie i pisanie z klawiatury komputera.
 - **Powiadomienia z telefonu:** w Windows, z przyciskiem „Kopiuj kod” przy kodach SMS i wyciszaniem wybranych aplikacji.
 - **Połączenia:** wybieranie numeru z komputera i historia połączeń.
-- **Zdjęcia i filmy:** przeglądanie, pobieranie, przeciąganie prosto do folderu, Photoshopa czy innego programu. Przeciągasz od razu, bez czekania: nazwa i rozmiar pojawiają się natychmiast, a zawartość przychodzi z telefonu dopiero w chwili puszczenia. Na ekranie Start kafelek Zdjęcia ma zaznaczanie jak w Eksploratorze (Ctrl, Shift) i przeciąganie prosto z kafelka.
+- **Zdjęcia i filmy:** przeglądanie, pobieranie, przeciąganie prosto do folderu, Photoshopa czy innego programu. Przeciągasz od razu, bez czekania: nazwa i rozmiar pojawiają się natychmiast, a zawartość przychodzi z telefonu dopiero w chwili puszczenia. Na ekranie Start kafelek Zdjęcia ma zaznaczanie jak w Eksploratorze (Ctrl, Shift), przeciąganie prosto z kafelka i menu prawego przycisku. Zdjęcie na telefonie usuniesz, przeniesiesz do innego albumu albo zmienisz mu nazwę (F2) prosto z komputera.
 - **Wiadomości z dużym „Kopiuj kod”:** kod jednorazowy wykrywany zawsze (także w czatach RCS), dowolny fragment wiadomości zaznaczasz i kopiujesz jak zwykły tekst, na komputerze i w telefonie.
 - **Telefon jako dysk w Eksploratorze Windows:** własna litera dysku, miniatury, pojemność telefonu.
 - **Ekran telefonu na komputerze ze sterowaniem myszą i klawiaturą,** także w pływającym oknie z ramką telefonu, które przesuwasz po pulpicie.
